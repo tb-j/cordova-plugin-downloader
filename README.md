@@ -14,14 +14,14 @@ This requires Phonegap / Cordova CLI 3.0 +
 - Cordova CLI
 
 ```sh
-cordova plugin add https://github.com/Whebcraft/cordova-plugin-downloader
+cordova plugin add https://github.com/tb-j/cordova-plugin-downloader
 ```
 
 
 - Phonegap Build
 
 ```sh
-    <plugin spec="https://github.com/Whebcraft/cordova-plugin-downloader.git" source="git" />
+    <plugin spec="https://github.com/tb-j/cordova-plugin-downloader.git" source="git" />
 ```
 
 ### Usage Android
